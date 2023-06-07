@@ -9,7 +9,7 @@ Webster project for the Problem Statement "Together We" by the team Elegance.
 
 Clone the project
 
-Go to the localhost version directory
+Go to  localhost version directory
 
 ```bash
   cd localhost-version
